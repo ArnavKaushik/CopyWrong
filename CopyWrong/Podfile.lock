@@ -1,0 +1,16 @@
+PODS:
+  - CircularProgressMac (0.2.1)
+
+DEPENDENCIES:
+  - CircularProgressMac
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CircularProgressMac
+
+SPEC CHECKSUMS:
+  CircularProgressMac: a96bdf934944f127b258158ee15b5ff2345a713a
+
+PODFILE CHECKSUM: 4798a8f4d15b88d12efaf30a9cdd96e43a488743
+
+COCOAPODS: 1.5.3
